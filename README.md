@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tyson-Control-Master
-- 👀 I’m interested in Effeciency and learning new skills
-- 🌱 I’m currently learning Linux, Ignition, Go, and Git
+- 👀 I’m interested in Effeciency, Developing PLC code, plant automation, and learning new skills
+- 🌱 I’m currently learning Linux, Ignition, Go, Docker, Podman, and Git
 - 💞️ I’m looking to collaborate on Schneider Electric's BME ECN
 - 📫 How to reach me maxwell.bean@tyson.com
 - 😄 Pronouns: ...
